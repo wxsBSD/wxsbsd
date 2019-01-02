@@ -6,3 +6,6 @@ footer-links:
   twitter: wxs
   github: wxsbsd
 theme: jekyll-theme-minimal
+site:
+  github:
+  is_project_page: false

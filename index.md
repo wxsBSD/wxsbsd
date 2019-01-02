@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+![Image](/images/atarininja.png)
 
-You can use the [editor on GitHub](https://github.com/wxsBSD/wxsbsd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Wesley Shields. I spend my time working on various things. My interests lie
+in malware, protocols and reverse engineering. I like to hack on a wide range of
+things in those areas. I'm also a retired FreeBSD committer where I spent many
+years as a ports committer. If I'm not in front of a computer you can find me
+rock climbing or with my family in the RTP area of North Carolina.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wxsBSD/wxsbsd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are looking to get in touch with me the best way is email
+(wxs@{freebsd,atarininja}.org). I do use twitter if you're looking for more
+regular updates from me.

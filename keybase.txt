@@ -1,0 +1,59 @@
+wxs
+Wesley Shields
+==================================================================
+https://keybase.io/wxs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://atarininja.org
+  * I am wxs (https://keybase.io/wxs) on keybase.
+  * I have a public key ASAAHatLWDeYkRn_yhtJ35NOxUfNS-XW0kJl8xRsQa3mTgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01111d802fadcbccbb2579ceaf29866865fafa623ac415177e67f2e523d3e950ae370a",
+      "host": "keybase.io",
+      "kid": "0120001dab4b5837989119ffca1b49df934ec547cd4be5d6d24265f3146c41ade64e0a",
+      "uid": "5d6c28ce9fdf3b3c3668fb5151625100",
+      "username": "wxs"
+    },
+    "merkle_root": {
+      "ctime": 1561384144,
+      "hash": "0dcf9e99f9afd62fee2a9c1e62f7964ef826d0954d88634fa465b7af555a19c8cc8d8881abc5678815051e24151e73a84d19670328fa03c53652375fc4af2df4",
+      "hash_meta": "fa1bcd9a616e814002b0a41a89c11b5a0fc0090de766bf3e538bd18386864da0",
+      "seqno": 5628267
+    },
+    "service": {
+      "entropy": "ncx/9bqZsGWN2IuuDeljHslc",
+      "hostname": "atarininja.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1561384168,
+  "expire_in": 504576000,
+  "prev": "003e57b3d850c4b8e5102eba3d6b468663bcfedd4804f89530489d7d3690bed1",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAB2rS1g3mJEZ/8obSd+TTsVHzUvl1tJCZfMUbEGt5k4Kp3BheWxvYWTESpcCD8QgAD5Xs9hQxLjlEC66PWtGhmO8/t1IBPiVMEidfTaQvtHEIK6r8cCTjOTokPttuyFjh/2jwPqK4VRWgeuW/0NdFDxCAgHCo3NpZ8RAesHwr50FrWEFflYcg0aQu2w1zKr3PdJO27dcMMgJpiMgy3HK0Fdk6fL2LPCIaKPDfJ3pRp7htrbQmRTprXLOBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPl4YlJhsUqNxVKDAgLSIGyl3/+zBohrtTjp4KF6T3B6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wxs
+
+==================================================================
+
